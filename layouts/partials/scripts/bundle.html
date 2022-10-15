@@ -10,9 +10,6 @@
 {{- $fusePath := "js/fuse.js" }}
 {{- $fuse := resources.Get $fusePath | resources.ExecuteAsTemplate $fusePath . }}
 
-{{- $searchPath := "js/search.js" }}
-{{- $search := resources.Get $searchPath | resources.ExecuteAsTemplate $searchPath . }}
-
 {{- $mainScriptPath := "js/index.js" }}
 {{- $main := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . }}
 
@@ -22,7 +19,7 @@
 {{ end }}
 {{- $custom := resources.Get $customScriptPath | resources.ExecuteAsTemplate $customScriptPath . }}
 
-{{- $bundle := slice $variables $functions $code $main $fuse $search $custom | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
+{{- $bundle := slice $variables $functions $code $main $fuse $custom | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
 <script src="{{ $bundle.Permalink }}"></script>
 
 {{- partialCached "hooks/scripts" . -}}
