@@ -1,4 +1,4 @@
-baseURL = 'midnight.fyi'
+baseURL = 'https://midnight.fyi'
 languageCode = 'en-us'
 title = 'Midnight Techology consulting and Repair Specialist'
 theme = 'compose'
