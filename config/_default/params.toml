@@ -1,0 +1,5 @@
+metaThemeColor = "#aa0000"
+
+[logo]
+  lightMode = "images/logo.svg"
+  darkMode = "images/logo.svg"
