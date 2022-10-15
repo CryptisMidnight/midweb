@@ -1,9 +1,8 @@
-{{ $iconsPath := partialCached "functions/getIconPath" . }}
 html
-  --infoIcon: url('{{ absURL $iconsPath  }}info.svg')
-  --sunIcon: url('{{ absURL $iconsPath  }}sun.svg')
-  --moonIcon: url('{{ absURL $iconsPath  }}moon.svg')
-  --nextIcon: url('{{ absURL $iconsPath  }}next.svg')
+  --infoIcon: url('/icons/info.svg')
+  --sunIcon: url('/icons/sun.svg')
+  --moonIcon: url('/icons/moon.svg')
+  --nextIcon: url('/icons/next.svg')
 @import "variables"
 @import "base"
 @import "nav"
