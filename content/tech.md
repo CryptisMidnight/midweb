@@ -9,7 +9,7 @@ draft = false
 As a consultant, I offer many ways to help you use technology better, like
 
 - Reduce costs by offering the most comparable or better services.
-- Suggest technolgical soulotions and digital strategies
+- Suggest technological solutions and digital strategies
 - Optimize equipment based on your needs.
 - Breakdown the PR and marketing ploys into actual useful information.
 - Answer technical questions and explain technical language
