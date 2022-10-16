@@ -1,37 +1,30 @@
 +++
 title = "Repair Specialist"
 date = 2022-09-28T21:25:16-05:00
-draft = true
+draft = false
 +++
+## FAQ
 
-## Main About page
+### Do I build PCs?
 
-- this is as list
-- and this works
+> Yes, I can work with you to pick out the parts that best suit your needs. Then I can build it for you, or if you want to build it yourself, I can help with that too.
 
-## Testing more
+### What devices can I work on?
 
-- [ ] checklist
-- [ ] and more
+> I specialize in most electronic repairs, from replacing a blown TV board to replacing screens on phones. This includes PC laptops and desktops, Macbooks, and a variety of other computers. I can work with multiple operating systems: Windows, MacOS, ChromeOS, Android, and Linux, along with several others.
 
-```md
-## Cases
-- [Lian Li LI PC-O11 Dynamic EVO Black](https://www.amazon.com/Lian-Li-PC-O11-Dynamic-Computer/dp/B09QHJZ7LK/ref=sr_1_18)
-- [Lian Li PC-O11DX](https://www.amazon.com/Lian-Li-PC-O11DX-Radiator-Anti-Sag/dp/B09HZM77ZV/ref=dp_fod_2)
-- [HYTE Y60](https://www.amazon.com/HYTE-Aesthetic-Panoramic-Mid-Tower-CS-HYTE-Y60-BW/dp/B09TQ1J58V/ref=sr_1_4)
-- [Vetroo K1 Pangolin](https://www.amazon.com/Vetroo-K1-Pangolin-Mid-Tower-Tempered/dp/B098DW1BNF/ref=psdc_3012292011_t3_B082R4WMDS)
-- [Thermaltake Versa N24](https://www.amazon.com/Thermaltake-Computer-Chassis-preinstalled-CA-1G1-00M1WN-00/dp/B01FG9XS5I/ref=sr_1_95)
-- [Thermaltake AH T600](https://www.newegg.com/thermaltake-ah-t600-black-atx-full-tower/p/N82E16811133432)
-- [KEDIERS Midnight Green c570](https://www.newegg.com/green-kediers-c-570-atx/p/2AM-00HH-00065)
-- [Thermaltake The Core P6](https://www.amazon.com/Thermaltake-transformable-Computer-Certification-CA-1V2-00MCWN-00/dp/B09S4TBXC8)
-- [IN WIN AIRFORCE (lego)](https://www.newegg.com/justice-white-in-win-airforce-atx-mid-tower/p/N82E16811108561)
-- [Cooler Master HAF XB EVO](https://www.amazon.com/Cooler-Master-HAF-EVO-Motherboard/dp/B00FFJ0H3Q/ref=sr_1_4)
-- [Anidees AI Crystal Cube](https://www.amazon.com/dp/B07NWHFMXP/ref=emc_b_5_i)
-=> Il1 ==
-```
+### What if I cant repair the devices?
 
-> this is a block quote
+> If after I inspect the device and i am unable to make the repairs, there will be no charge. I will work with you to find the best options for the repair
 
-### additional testing
+### Can I upgrade your device?
 
-trying some thing else.
+> This depends on your device, but in most cases, if upgrades are available, yes.
+
+### Can I recover data from a device?
+
+> I can do low-level recovery, just like device repairs. If I am unable to get the data, I will help you find the best options that are available.
+
+## Services
+
+If you are need of my service please contact me for a free initial consult

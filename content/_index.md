@@ -17,4 +17,4 @@ Avoid getting ripped off by paying extreme markups for simple fixes, touch-ups, 
 **Under Construction** More will be added shortly
 {{< /tip >}}
 
-{{< button "" "Repairs" >}}
+{{< button "/repair" "Repairs" >}}{{< button "/tech" "Consultant" >}}
