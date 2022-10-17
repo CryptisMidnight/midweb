@@ -301,7 +301,6 @@ function loadActions() {
       }
     }
     lazyLoadMedia('iframe');
-    lazyLoadMedia('img');
   })();
 
   (function makeTablesResponsive(){

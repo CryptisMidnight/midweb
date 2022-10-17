@@ -1,9 +1,9 @@
 {{- $images := split (replace (.Get 0) ", " ",") "," }}
 {{- $descriptions := split (replace (.Get 1) ":: " "::") "::" }}
 <div class="flip">
-  {{ range $index, $image := $images }}
+  {{ range $index, $image := $images }} 
   <figure class="flip_card">
-    <img src="{{ absURL $image }} " class="flip_face"{{ with $descriptions }}{{ with (index . $index) }} alt="{{ . }}"{{ end }}{{ end }}/>
+    <img src="{{ absURL $image }} " class="flip_face"{{ with $descriptions }}{{ with (index . $index) }} alt="{{ . }}"{{ end }}{{ end }} loading="eager"/>
     <div class="flip_back">{{ with $descriptions }}{{ with (index . $index) }}{{ . }}{{ end }}{{ end }}</div>
   </figure>
   {{ end }}
