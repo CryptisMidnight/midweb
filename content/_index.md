@@ -14,7 +14,7 @@ With over 20 years of experience with computers and electronics
 Avoid getting ripped off by paying extreme markups for simple fixes, touch-ups, or replacements. Protect you from getting talked into features that you don't want, need, or are not even real. Help to translate technical jargon into something that actually means something to you. I'll help you cut through all the marketing and PR pitfulls and get to the stuff that matters to you.
 
 {{< tip "warning" >}}
-**Under Construction** More will be added shortly
+Contact me to set-up an appointment
 {{< /tip >}}
 
-{{< button "/repair" "Repairs" >}}{{< button "/tech" "Consultant" >}}
+{{< button "/contact" "Contact" >}}{{< button "/repair" "Repairs" >}}{{< button "/tech" "Consultant" >}}

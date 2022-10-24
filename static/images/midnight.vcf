@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Sabre//Sabre VObject 4.4.3//EN
+UID:66bc2a11-b54a-4723-b9d6-0df7d0a9fc8a
+FN:Justin
+ADR;TYPE=HOME:;;;Beaver Creek;Minnesota;56116;United States
+EMAIL;TYPE=WORK:midnight-tc-rs@gmx.us
+TEL;TYPE=WORK,VOICE:5073508231
+ORG:Midnight TC RS
+URL;VALUE=URI:midnight.fyi
+TITLE:Technician
+REV;VALUE=DATE-AND-OR-TIME:20221024T184744Z
+END:VCARD
