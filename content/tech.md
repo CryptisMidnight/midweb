@@ -4,7 +4,7 @@ date = 2022-09-30T22:01:53-05:00
 draft = false
 +++
 
-## Culsulting services
+## Consulting services
 
 I offer many ways to help you use technology better
 
