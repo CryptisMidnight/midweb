@@ -6,13 +6,16 @@ draft = false
 
 ## Rates
 
-{{< tip >}}The initial consultation review or inspection, is free.
+{{< tip >}}
+The initial consultation review or inspection, is free.
 {{< /tip >}}
 For technology consulting, rates are the same in-person or over the phone at **$20 per/hr**. This includes but is not limited to: Q&As, formulating solutions, presentations, and referrals. You may be charged for additional consultations and troubleshooting.
-
-{{< tip "warning">}}Maintenance and upkeep of any solution is your responsibility.
+{{< tip "warning">}}
+Maintenance and upkeep of any solution is your responsibility.
 {{< /tip>}}
 Repair services are **$20 per/hr**. You can supply your own parts. To maintain a warranty for repairs and PC builds, all new parts must be bought by the customer. Travel expenses will be added depending on the size of the job and distance. No surprise expenses; all costs will be laid out in advance. Repairs come with a warranty, duration varies based on job and item.
+
+---
 
 ## Contact
 

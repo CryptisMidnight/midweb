@@ -1,7 +1,7 @@
 +++
 title = "Faq"
 date = 2022-10-24T21:46:47-05:00
-draft = true
+draft = false
 +++
  
 {{< tip >}}Do I build PCs?{{< /tip >}}
