@@ -3,6 +3,11 @@ title = "Repair Specialist"
 date = 2022-09-28T21:25:16-05:00
 draft = false
 +++
+
+## Services
+
+If you are need of my service please contact me for a free initial consult
+
 ## FAQ
 
 {{< tip >}}Do I build PCs?{{< /tip >}}
@@ -24,7 +29,3 @@ This depends on your device, but in most cases, if upgrades are available, yes.
 {{< tip >}}Can I recover data from a device?{{< /tip >}}
 
 I can do low-level recovery, just like device repairs. If I am unable to get the data, I will help you find the best options that are available.
-
-## Services
-
-If you are need of my service please contact me for a free initial consult

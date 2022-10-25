@@ -4,9 +4,9 @@ date = 2022-09-30T22:01:53-05:00
 draft = false
 +++
 
-## Culsulting services I offer
+## Culsulting services
 
-As a consultant, I offer many ways to help you use technology better, like
+Additionally as a consultant, I offer many ways to help you use technology better, like
 
 - Reduce costs by offering the most comparable or better services.
 - Suggest technological solutions and digital strategies
@@ -16,3 +16,4 @@ As a consultant, I offer many ways to help you use technology better, like
 - Suggest how to best manage risks.
 
 Many companies use technology consulting firms that help them in these fields. I believe this is something that anyone should be able to benefit from.
+  
